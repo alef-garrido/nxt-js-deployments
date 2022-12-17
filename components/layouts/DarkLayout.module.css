@@ -1,0 +1,15 @@
+
+.container {
+  padding: 0 2rem;
+  width: 100%;
+  background-color: #201f1f;	
+}
+
+.main {
+  min-height: 100vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
